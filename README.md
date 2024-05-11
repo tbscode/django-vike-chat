@@ -1,3 +1,11 @@
+> 📢 Announcement 📢: Hey everybody we just release the first modularized version of our django apps
+> - 'core' module: https://pypi.org/project/oc-chat-django/
+> - 'chat' module: https://pypi.org/project/oc-core-django/
+>
+> We have also published a package for the chats python client:
+> - https://pypi.org/project/open-chat-api-client/
+> And we are working hard to have the first AGENT-RAG demo online very soon! 🚀
+
 # Open Chat
 
 >  aka `tims-stack-v5` :warning: This repo is a work in progress!
@@ -24,6 +32,11 @@ docker compose up --build
 - [The staging chat server](https://staging-open-chat.msgmate.io/)
 - [The documentation](https://staging-open-chat.msgmate.io/docs)
 - [The API](https://staging-open-chat.msgmate.io/api/schema/redoc/)
+
+## Related Software
+
+- [the python api client package](https://github.com/tbscode/open-chat-api-client/)
+- [the new hal9003 bot]()
 
 ### About
 
